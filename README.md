@@ -18,6 +18,7 @@ Scalar, most of the attributes are scalar, which means that they can have only o
 Secondary index: global vs local secondary index. Attribute projecttions: All vs Only key vs Include. \
 Data type: scalar, document, set \
 PS: Use string type ISO 8601 represent datetime or timestamp.\ 
+DAX:
 # DynamoDB Performance
 On-Demand capacity vs Provisioned capacity
 ARN: for programmic
