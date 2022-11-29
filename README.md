@@ -15,7 +15,7 @@ Each item in the table has a unique identifier, or primary key, that distinguish
 The primary key for Music consists of two attributes (Artist and SongTitle). Each item in the table must have these two attributes. The combination of Artist and SongTitle distinguishes each item in the table from all of the others. \
 Schemaless \
 Scalar, most of the attributes are scalar, which means that they can have only one value. Strings and numbers are common examples of scalars. \
-Secondary index. \
+Secondary index: global and local secondary index. \
 Data type: scalar, document, set \
 PS: Use string type ISO 8601 represent datetime or timestamp.\ 
 # DynamoDB Performance
