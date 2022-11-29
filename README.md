@@ -2,6 +2,8 @@
 11/28/2022 \
 https://learn.acloud.guru/course/aws-certified-database-speciality-dbs-c01/learn/1231bb01-4541-4c47-b5e4-33382ec22adc/81c6f45f-a027-4cc4-8e59-0e676a51508b/watch \
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html \
+#DynamoDB deepdive
+https://github.com/linuxacademy/content-dynamodb-deepdive
 DynamoDB core concepts: \
 Table \
 Item, unique, has a primary key \
