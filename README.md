@@ -4,6 +4,7 @@ https://learn.acloud.guru/course/aws-certified-database-speciality-dbs-c01/learn
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html \
 #DynamoDB deepdive
 https://github.com/linuxacademy/content-dynamodb-deepdive \
+CAP: Partition + (consistency or availbity) \
 DynamoDB core concepts: \
 Table \
 Item, unique, has a primary key \
@@ -15,6 +16,7 @@ Each item in the table has a unique identifier, or primary key, that distinguish
 The primary key for Music consists of two attributes (Artist and SongTitle). Each item in the table must have these two attributes. The combination of Artist and SongTitle distinguishes each item in the table from all of the others. \
 Schemaless \
 Scalar, most of the attributes are scalar, which means that they can have only one value. Strings and numbers are common examples of scalars. \
+Consistency read
 # Secondary Index 
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html \
 Secondary index: global vs local secondary index. Attribute projecttions: All vs Only key vs Include. \
