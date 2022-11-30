@@ -5,6 +5,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.ht
 #DynamoDB deepdive
 https://github.com/linuxacademy/content-dynamodb-deepdive \
 CAP: Partition + (consistency or availbity) \
+8:00 at https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/321d7406-306d-4973-bb41-fae807e32e46/8b309dc0-78a2-4db0-b504-c923b8a62cfd/watch \
 DynamoDB core concepts: \
 Table \
 Item, unique, has a primary key \
