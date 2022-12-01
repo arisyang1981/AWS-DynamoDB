@@ -5,6 +5,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.ht
 #DynamoDB deepdive
 https://github.com/linuxacademy/content-dynamodb-deepdive \
 # RDBMS vs NoSQL
+Optimal workloads, data model, performance, scaling.
 RDBMS is storage optimized, NoSQL is compute optimized. \
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.WhyDynamoDB.html
 
