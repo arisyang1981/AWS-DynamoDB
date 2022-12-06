@@ -40,5 +40,8 @@ Secondary index: global vs local secondary index. Attribute projecttions: All vs
 On-Demand capacity vs Provisioned capacity
 ARN: for programmic
 
+# Dynamodb cost, RCU(read capacity unit) and WCU(write capacity unit)
+https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/dacfec58-5510-4f61-83d3-f32ff5d92da8/watch \
+
 # Monitor
 CloudWatch
