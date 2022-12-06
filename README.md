@@ -43,5 +43,8 @@ ARN: for programmic
 # Dynamodb cost, RCU(read capacity unit) and WCU(write capacity unit)
 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/dacfec58-5510-4f61-83d3-f32ff5d92da8/watch \
 
+# Eventually read consistency vs Strongly read consistency
+https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/c1836356-e6fb-4141-9a08-226ec73ddf04/watch \
+
 # Monitor
 CloudWatch
