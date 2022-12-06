@@ -25,7 +25,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.Core
 For example: \ 
 Each item in the table has a unique identifier, or primary key, that distinguishes the item from all of the others in the table. In the People table, the primary key consists of one attribute (PersonID). \
 The primary key for Music consists of two attributes (Artist and SongTitle). Each item in the table must have these two attributes. The combination of Artist and SongTitle distinguishes each item in the table from all of the others. \
-Hash value of the partition key determines the physical node of data storing, at 5:00 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/124deda8-ee4e-4c53-a516-c51365ca71c9/watch \ 
+Hash value of the partition key determines the physical node of data storing, at 5:00 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/124deda8-ee4e-4c53-a516-c51365ca71c9/watch \
 Schemaless \
 Scalar, most of the attributes are scalar, which means that they can have only one value. Strings and numbers are common examples of scalars. \
 Consistency read \
