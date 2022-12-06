@@ -38,3 +38,6 @@ Secondary index: global vs local secondary index. Attribute projecttions: All vs
 # DynamoDB Performance
 On-Demand capacity vs Provisioned capacity
 ARN: for programmic
+
+# Monitor
+CloudWatch
