@@ -45,6 +45,7 @@ https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db
 On-Demand capacity vs Provisioned capacity \
 In provisoned capacity, the throttling occur when exceeds read/write capacity unit. \
 In on-demand capacity, the throttling only occur when the peak of read/write capacity unit double grows in 30 minutes, 4:30 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/4c4bbc69-6df1-4bd7-b2a5-5c479816a9bc/796be95a-d5bb-4441-981d-9c844b09a283/watch \
+Auto scaling in provisioned capacity, https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/4c4bbc69-6df1-4bd7-b2a5-5c479816a9bc/cea125a0-d03c-4c98-9947-1d7024a48d02/watch
 
 
 # Eventually read consistency vs Strongly read consistency
