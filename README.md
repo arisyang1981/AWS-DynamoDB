@@ -37,13 +37,15 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexe
 Secondary index: global vs local secondary index. Attribute projecttions: All vs Only key vs Include. \
 
 # DynamoDB Performance
-On-Demand capacity vs Provisioned capacity
-In provisoned capacity, the throttling occur when exceeds read/write capacity unit.
-In on-demand capacity, the throttling only occur when the peak of read/write capacity unit double grows in 30 minutes, 4:30 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/4c4bbc69-6df1-4bd7-b2a5-5c479816a9bc/796be95a-d5bb-4441-981d-9c844b09a283/watch \
+
 ARN: for programmic
 
-# Dynamodb cost, RCU(read capacity unit) and WCU(write capacity unit)
+# Important: understand RCU and WCU, on-demand vs provisioned capacity, throttle. Dynamodb cost, RCU(read capacity unit) and WCU(write capacity unit)
 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/dacfec58-5510-4f61-83d3-f32ff5d92da8/watch \
+On-Demand capacity vs Provisioned capacity \
+In provisoned capacity, the throttling occur when exceeds read/write capacity unit. \
+In on-demand capacity, the throttling only occur when the peak of read/write capacity unit double grows in 30 minutes, 4:30 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/4c4bbc69-6df1-4bd7-b2a5-5c479816a9bc/796be95a-d5bb-4441-981d-9c844b09a283/watch \
+
 
 # Eventually read consistency vs Strongly read consistency
 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/c1836356-e6fb-4141-9a08-226ec73ddf04/watch \
