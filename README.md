@@ -38,6 +38,8 @@ Secondary index: global vs local secondary index. Attribute projecttions: All vs
 
 # DynamoDB Performance
 On-Demand capacity vs Provisioned capacity
+In provisoned capacity, the throttling occur when exceeds read/write capacity unit.
+In on-demand capacity, the throttling only occur when the peak of read/write capacity unit double grows in 30 minutes, 4:30 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/4c4bbc69-6df1-4bd7-b2a5-5c479816a9bc/796be95a-d5bb-4441-981d-9c844b09a283/watch \
 ARN: for programmic
 
 # Dynamodb cost, RCU(read capacity unit) and WCU(write capacity unit)
