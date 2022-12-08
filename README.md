@@ -64,3 +64,4 @@ https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db
 CloudWatch
 
 # DMS
+https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/b9fec19d-2da8-4621-b35d-7d59ee03f067/b5d07c68-89b5-4ebe-a494-c2535e14ddf0/watch \
