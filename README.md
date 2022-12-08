@@ -40,6 +40,7 @@ But the partition key or plus the sort key of the base table is required to be u
 Sparse indexes 
 
 # DynamoDB Performance
+Offload large attibutes from DynamoDB to S3, https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/53916856-b13a-41f0-bed2-70a0cdc62ecf/74b03f1f-831f-4faf-b3cc-fe67d7abffe6/watch \
 
 ARN: for programmic
 
