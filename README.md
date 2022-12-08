@@ -41,6 +41,7 @@ Sparse indexes
 
 # DynamoDB Performance
 Offload large attibutes from DynamoDB to S3, https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/53916856-b13a-41f0-bed2-70a0cdc62ecf/74b03f1f-831f-4faf-b3cc-fe67d7abffe6/watch \
+Rebalance hot and cold partition key, https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/53916856-b13a-41f0-bed2-70a0cdc62ecf/a9b8cb13-b194-42c5-b315-f777f64681db/watch \
 
 ARN: for programmic
 
