@@ -72,3 +72,6 @@ CloudWatch
 
 # DMS
 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/b9fec19d-2da8-4621-b35d-7d59ee03f067/b5d07c68-89b5-4ebe-a494-c2535e14ddf0/watch \
+
+# Encrypt 
+https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/3dabfa75-a0e6-4b90-a67b-86b91cefdf22/d1269ca2-259e-4ce9-a950-5aa6367888b8/watch
