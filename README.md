@@ -58,7 +58,8 @@ https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db
 
 # Scan and Query
 
-# Write conflictly
+# Data consistency, write conflictly, transactions.
+https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/21e1f2b6-779d-41d2-8574-758fa76e7890/de3af1f2-9cde-4521-8bea-0267d48b12cf/watch
 
 # Batch write and read
 
