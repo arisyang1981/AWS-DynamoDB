@@ -31,6 +31,7 @@ Scalar, most of the attributes are scalar, which means that they can have only o
 Consistency read \
 Data type: scalar, document, set \
 PS: Use string type ISO 8601 represent datetime or timestamp.\
+TTL: time to live, set the expiration for items.
 DAX:
 # Secondary Index 
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html \
