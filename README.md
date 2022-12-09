@@ -64,6 +64,9 @@ https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/21e1
 
 # Batch write and read
 
+# Global table
+https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/3dabfa75-a0e6-4b90-a67b-86b91cefdf22/a89a67c1-84e3-4856-ac16-903b1f43a1f9/watch
+
 # Monitor
 CloudWatch
 
