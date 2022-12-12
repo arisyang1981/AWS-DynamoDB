@@ -15,7 +15,7 @@ At 7:30 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/le
 8:00 at https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/321d7406-306d-4973-bb41-fae807e32e46/8b309dc0-78a2-4db0-b504-c923b8a62cfd/watch 
 # NoSQL Engine type
 Key-values(AWS DynamoDB, Cassadra) vs Document(Mongodb) vs Columnar(Vector, Vertica) vs Graph \
-At 4:22 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/321d7406-306d-4973-bb41-fae807e32e46/6cd4e2f1-0f7b-494b-8849-7286e44fa914/watch \
+At 4:22 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/321d7406-306d-4973-bb41-fae807e32e46/6cd4e2f1-0f7b-494b-8849-7286e44fa914/watch 
 # DynamoDB core concepts
 Table \
 Item, unique, has a primary key \
