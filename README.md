@@ -3,7 +3,7 @@
 https://learn.acloud.guru/course/aws-certified-database-speciality-dbs-c01/learn/1231bb01-4541-4c47-b5e4-33382ec22adc/81c6f45f-a027-4cc4-8e59-0e676a51508b/watch \
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html \
 #DynamoDB deepdive
-https://github.com/linuxacademy/content-dynamodb-deepdive \
+https://github.com/linuxacademy/content-dynamodb-deepdive 
 # RDBMS vs NoSQL
 Optimal workloads, data model, performance, scaling.
 RDBMS is storage optimized, NoSQL is compute optimized. \
@@ -11,7 +11,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SQLtoNoSQL.WhyD
 
 # ACID vs BASE
 At 7:30 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/321d7406-306d-4973-bb41-fae807e32e46/6cd4e2f1-0f7b-494b-8849-7286e44fa914/watch
-# CAP: Partition + (consistency or availbity) \
+# CAP: Partition + (consistency or availbity) 
 8:00 at https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/321d7406-306d-4973-bb41-fae807e32e46/8b309dc0-78a2-4db0-b504-c923b8a62cfd/watch \
 # NoSQL Engine type
 Key-values(AWS DynamoDB, Cassadra) vs Document(Mongodb) vs Columnar(Vector, Vertica) vs Graph \
