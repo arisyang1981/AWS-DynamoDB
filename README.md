@@ -78,3 +78,9 @@ https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/3dab
 
 # Encrypt 
 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/3dabfa75-a0e6-4b90-a67b-86b91cefdf22/d1269ca2-259e-4ce9-a950-5aa6367888b8/watch
+
+# Low cardinality of the partition key
+Low cardinality of the partition key means high dupliate rows, how to increase the cardinality? \
+https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/1f476454-5725-420e-97e8-1e8f5dbabf0f/012ec86a-8ba9-438e-a97b-283201931033/watch
+
+
