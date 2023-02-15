@@ -84,3 +84,5 @@ Low cardinality of the partition key means high dupliate rows, how to increase t
 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/1f476454-5725-420e-97e8-1e8f5dbabf0f/012ec86a-8ba9-438e-a97b-283201931033/watch
 
 
+# Second time, DynamoDB on 2/25
+
