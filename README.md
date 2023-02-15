@@ -95,3 +95,6 @@ Index:\
 LSI, GSI, projected secondary index attibutes per table \
 LSI: local secondary index, must create along with table creating, can't add a LSI to a table. Very useful when strongly consisteny read. \
 GSI: global secondary index.
+
+Cost Optimization: \
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CostOptimization_TableLevelCostAnalysis.html
