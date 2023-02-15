@@ -97,4 +97,5 @@ LSI: local secondary index, must create along with table creating, can't add a L
 GSI: global secondary index.
 
 Cost Optimization: \
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CostOptimization_TableLevelCostAnalysis.html
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CostOptimization_TableLevelCostAnalysis.html \
+
