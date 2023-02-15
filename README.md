@@ -85,4 +85,13 @@ https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/1f47
 
 
 # Second time, DynamoDB on 2/25
+# Core concepts:
+RCU and WCU \
+RCU: read capacity unit, one strongly consisent read per second, or two eventually consistent reads per second, item size up to 4K. \
+WCU: write capcacity unit, one write per second, item size up to 1K. \
+Q: What differences between strongly and eventually consistent read? 
 
+Index:\
+LSI, GSI, projected secondary index attibutes per table \
+LSI: local secondary index, must create along with table creating, can't add a LSI to a table. Very useful when strongly consisteny read. \
+GSI: global secondary index.
