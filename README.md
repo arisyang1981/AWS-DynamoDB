@@ -3,7 +3,10 @@
 https://learn.acloud.guru/course/aws-certified-database-speciality-dbs-c01/learn/1231bb01-4541-4c47-b5e4-33382ec22adc/81c6f45f-a027-4cc4-8e59-0e676a51508b/watch \
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html \
 #DynamoDB deepdive
-https://github.com/linuxacademy/content-dynamodb-deepdive 
+https://github.com/linuxacademy/content-dynamodb-deepdive \
+#AWS DynamoDB deepdive \
+https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/dashboard
+
 # RDBMS vs NoSQL
 Optimal workloads, data model, performance, scaling.
 RDBMS is storage optimized, NoSQL is compute optimized. \
