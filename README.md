@@ -93,8 +93,9 @@ RCU and WCU \
 RCU: read capacity unit, one strongly consisent read per second, or two eventually consistent reads per second, item size up to 4K. \
 WCU: write capcacity unit, one write per second, item size up to 1K. \
 Q: What differences between strongly and eventually consistent read? \
-How to calculate RCU and WCU? \
-4:30 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/dacfec58-5510-4f61-83d3-f32ff5d92da8/watch
+A: https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/c1836356-e6fb-4141-9a08-226ec73ddf04/watch \
+Q:How to calculate RCU and WCU? \
+A:4:30 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/dacfec58-5510-4f61-83d3-f32ff5d92da8/watch
 
 Index:\
 LSI, GSI, projected secondary index attibutes per table \
