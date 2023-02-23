@@ -96,7 +96,7 @@ Q: What differences between strongly and eventually consistent read?
 
 Index:\
 LSI, GSI, projected secondary index attibutes per table \
-LSI: local secondary index, must create along with table creating, can't add a LSI to a table. Very useful when strongly consisteny read. \
+LSI: local secondary index, must create along with table creating, can't add a LSI to a table. Very useful when strongly consisteny read. Doesn't allow NULL sort attribute.\
 GSI: global secondary index.
 
 Cost Optimization: \
@@ -104,3 +104,8 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CostOptimizatio
 
 # How Dynamodb distribute items to different nodes?
 Dynamodb distribute items to different nodes based on the hash funtion for partition key. \
+
+# Access control. Not DynamoDB table access, it's query or scan contorl.
+At 11:00 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/4f1edca9-76f2-4c56-b695-190407ca8646/a846fdd3-652d-4433-a776-6a1cd81de956/watch \
+
+
