@@ -112,4 +112,6 @@ Each partition can reach 10G. \
 # Access control. Not DynamoDB table access, it's query or scan contorl.
 At 11:00 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/4f1edca9-76f2-4c56-b695-190407ca8646/a846fdd3-652d-4433-a776-6a1cd81de956/watch \
 
+# Batch read and write 
+https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/67fa6e69-b4a3-4a5e-af68-b7d680158c53/watch \
 
