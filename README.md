@@ -102,3 +102,5 @@ GSI: global secondary index.
 Cost Optimization: \
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CostOptimization_TableLevelCostAnalysis.html \
 
+# How Dynamodb distribute items to different nodes?
+Dynamodb distribute items to different nodes based on the hash funtion for partition key. \
