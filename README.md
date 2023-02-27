@@ -42,7 +42,7 @@ Secondary index: global vs local secondary index.
 Attribute projecttions: When create an index, becides attributes of index, can define more attributes project to the index. \
 Three projections methonds: all(all attributes) vs only key(only keys in the index) vs include(more attributes). \
 The partition key of global secondary index is not requreid to be unique, at 4:05 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/b9fec19d-2da8-4621-b35d-7d59ee03f067/fb9d9432-b28a-4b24-8ca0-22e06433582d/watch \
-But the partition key or plus the sort key of the base table is required to be unique.
+But the partition key or plus the sort key of the base table is required to be unique. \
 Sparse indexes 
 
 # DynamoDB Performance
