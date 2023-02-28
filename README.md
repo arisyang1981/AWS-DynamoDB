@@ -117,3 +117,5 @@ At 11:00 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/l
 # Batch read and write 
 https://learn.acloud.guru/course/4d91ceee-353d-47be-af9e-996ece43dca6/learn/f1db4f17-f7f6-4759-a62e-da112ce40b06/67fa6e69-b4a3-4a5e-af68-b7d680158c53/watch \
 
+# DAX, Dynamodb accelerator
+Memory cache for Dynamodb.
